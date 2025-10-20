@@ -72,7 +72,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
-  jumpForce: 4
+  jumpForce: 3
   gravity: -9
 --- !u!1 &4298953032093415103
 GameObject:
